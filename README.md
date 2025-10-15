@@ -5,12 +5,13 @@ Create a table called courses with the following columns:
 * `course_name` (`text`)
 * `teacher` (`text`)
 * `score` (`integer`)
+
 (You should get an empty table with column headings.)
 
 ---
 
 ### Task 2 – Add data (INSERT)
-1. Add at least **4 courses**:
+1. Add at least **4 courses**
 2. Show all courses where the **course name starts with the letter "M"**
 3. Show all courses where the **teacher's name contains the letter "a"**
 ```
