@@ -1,4 +1,4 @@
-# CRUD-SQL-Assignments
+# CRUD SQL Assignments
 ### Task 1 – Create the Courses table
 Create a table called courses with the following columns:
 * `course_id` (`integer`, `auto_increment`, `primary key`)
